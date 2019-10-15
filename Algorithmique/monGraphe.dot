@@ -1,0 +1,8 @@
+graph {
+	edge [label="Deus Vult", color=red, stle=dotted]
+	node [label="Inquisition"]
+	a -- c
+	a -- d
+	d -- e
+	b -- d
+}
